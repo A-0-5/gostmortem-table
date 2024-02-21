@@ -4,11 +4,16 @@
   "icon": "assets/gostmortem.png",
   "description": "A go stack trace visualiser",
   "version": "0.0.1",
+  "keywords": [
+    "Go",
+    "Stack Trace",
+    "Debugging"
+],
   "engines": {
     "vscode": "^1.86.0"
   },
   "categories": [
-    "Other"
+    "Visualization"
   ],
   "activationEvents": [],
   "main": "./out/extension.js",
@@ -16,7 +21,7 @@
     "commands": [
       {
         "command": "gostmortem-table.analyze",
-        "title": "Analyze"
+        "title": "Visualize Go Stack"
       }
     ]
   },
@@ -44,5 +49,12 @@
   "dependencies": {
     "@vscode/codicons": "^0.0.35",
     "@vscode/webview-ui-toolkit": "^1.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/A-0-5/gostmortem-table"
+  },
+  "bugs": {
+    "url": "https://github.com/A-0-5/gostmortem-table/issues"
   }
 }
