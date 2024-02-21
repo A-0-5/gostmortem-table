@@ -4,11 +4,12 @@
   "icon": "assets/gostmortem.png",
   "description": "A go stack trace visualiser",
   "version": "0.0.1",
+  "publisher": "AOS",
   "keywords": [
     "Go",
     "Stack Trace",
     "Debugging"
-],
+  ],
   "engines": {
     "vscode": "^1.86.0"
   },
