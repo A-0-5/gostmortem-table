@@ -15,3 +15,5 @@ The parser component [gostackparser.go](src/gostackparser.ts) is based on  [gost
 
 
 Any feedback is welcome.
+
+> PS: I'm new to typescript and frontend development in general. I've built this extension using my limited knowledge of html, css and ts that I was able to learn in a week. Please do not hesitate to point out any issues in terms of code quality as it also helps me learn.
