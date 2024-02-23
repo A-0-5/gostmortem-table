@@ -1,0 +1,20 @@
+name: Enhancements
+description: Request feature enhancements
+title: '[ENHANCEMENT]'
+labels:
+- enhancement
+body:
+- type: textarea
+  attributes:
+    label: Enhancement Idea
+    description: What would you like to improve about this component?
+    placeholder: Tell us more about what you'd like to improve (and how you'd like to see it done if you have any ideas/suggestions)
+  validations:
+      required: true
+- type: checkboxes
+  attributes:
+    label: Code of Conduct
+    description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/A-0-5/gostmortem-table?tab=coc-ov-file#readme)
+    options:
+      - label: I agree to follow this project's Code of Conduct
+        required: true

@@ -1,0 +1,20 @@
+name: New Feature Request
+description: Request for a new feature to be added as part of this project
+title: '[FEATURE] '
+labels:
+- feature
+body:
+- type: textarea
+  attributes:
+    label: Feature Description
+    description: What new feature would you like to see implemented?
+    placeholder: Tell us more about your awesome feature/idea you'd like to see as a part of this project
+  validations:
+      required: true
+- type: checkboxes
+  attributes:
+    label: Code of Conduct
+    description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/A-0-5/gostmortem-table?tab=coc-ov-file#readme)
+    options:
+      - label: I agree to follow this project's Code of Conduct
+        required: true
