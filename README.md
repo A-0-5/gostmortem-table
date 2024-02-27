@@ -2,7 +2,7 @@
 
 | Install Directly on | |
 |---|---|
-| [Visual Studio Code](vscode:extension/AOS.gostmortem-table) | [VSCodium](vscodium:extension/AOS.gostmortem-table) |
+| [Visual Studio Code](https://intradeus.github.io/http-protocol-redirector/?r=vscode:extension/AOS.gostmortem-table) | [VSCodium](https://intradeus.github.io/http-protocol-redirector/?r=vscodium:extension/AOS.gostmortem-table) |
 
 | Download from Marketplace |  |
 |---|---|
