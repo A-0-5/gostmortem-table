@@ -1,8 +1,16 @@
 ![Gostmortem](assets/banner.png)
 
+| Install Directly on | |
+|---|---|
+| [Visual Studio Code](https://intradeus.github.io/http-protocol-redirector/?r=vscode:extension/AOS.gostmortem-table) | [VSCodium](https://intradeus.github.io/http-protocol-redirector/?r=vscodium:extension/AOS.gostmortem-table) |
+
+| Download from Marketplace |  |
+|---|---|
+| [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=AOS.gostmortem-table) | [Open VSX Registry](https://open-vsx.org/extension/AOS/gostmortem-table) |
+
 Gostmortem table is an extension that allows you to visualize go stack traces.
 
-The parser component [gostackparser.go](src/gostackparser.ts) is based on  [gostackparse](https://github.com/DataDog/gostackparse) which parses a stack and provides a json object. 
+The parser component [gostackparser.ts](src/gostackparser.ts) is based on  [gostackparse](https://github.com/DataDog/gostackparse) which parses a stack and provides a json object. 
 
 ## Usage
 
